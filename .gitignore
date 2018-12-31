@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Raw scraped data (not committed — only parsed Markdown goes into kr/)
+data/
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
