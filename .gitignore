@@ -4,7 +4,10 @@ __pycache__/
 .venv/
 
 # Raw scraped data (not committed — only parsed Markdown goes into kr/)
-data/
+data/raw/
+data/regulate-kr/
+# Keep index JSONs
+!data/*.json
 
 # OS
 .DS_Store
