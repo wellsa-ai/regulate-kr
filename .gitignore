@@ -3,11 +3,10 @@ __pycache__/
 *.py[cod]
 .venv/
 
-# Raw scraped data (not committed — only parsed Markdown goes into kr/)
-data/raw/
-data/regulate-kr/
-# Keep index JSONs
-!data/*.json
+# Pipeline & scripts (비공개)
+pipeline/
+scripts/
+data/
 
 # OS
 .DS_Store
