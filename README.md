@@ -2,11 +2,11 @@
 
 > 대한민국 행정규칙(고시)을 Git으로 관리합니다.
 
-[![규정](https://img.shields.io/badge/고시-10,451개-blue)](kr/) [![파일](https://img.shields.io/badge/파일-10,893개-green)](kr/) [![부처](https://img.shields.io/badge/전_부처-망라-orange)](kr/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![규정](https://img.shields.io/badge/고시-10,472개-blue)](kr/) [![파일](https://img.shields.io/badge/파일-10,914개-green)](kr/) [![부처](https://img.shields.io/badge/전_부처-망라-orange)](kr/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-대한민국 현행 고시 **10,451개**를 Markdown + YAML frontmatter로 변환하여 Git 저장소에서 관리합니다. 각 개정은 실제 시행일자를 가진 **Git commit**으로 추적됩니다.
+대한민국 현행 고시 **10,472개**를 Markdown + YAML frontmatter로 변환하여 Git 저장소에서 관리합니다. 각 개정은 실제 시행일자를 가진 **Git commit**으로 추적됩니다.
 
-[legalize-kr](https://github.com/legalize-kr/legalize-kr)이 법률 6,907개를, **regulate-kr**이 행정규칙(고시) 10,451개를 담당합니다.
+[legalize-kr](https://github.com/legalize-kr/legalize-kr)이 법률 6,907개를, **regulate-kr**이 행정규칙(고시) 10,472개를 담당합니다.
 
 ## 왜 필요한가?
 
@@ -57,27 +57,27 @@ kr/{규정명}/
 
 ## 수록 현황
 
-전 부처 현행 고시 **10,451개** 수록. 부처별 상위 15:
+전 부처 현행 고시 **10,472개** 수록. 부처별 상위 15:
 
 | 소관부처 | 고시 수 |
 |----------|---------|
-| 국가데이터처 | 1,509 |
-| 산업통상부 | 949 |
-| 기후에너지환경부 | 796 |
-| 국토교통부 | 715 |
-| 국가유산청 | 533 |
-| 농림축산식품부 | 472 |
-| 해양수산부 | 436 |
+| 국가데이터처 | 1,521 |
+| 산업통상부 | 951 |
+| 기후에너지환경부 | 798 |
+| 국토교통부 | 717 |
+| 국가유산청 | 532 |
+| 농림축산식품부 | 473 |
+| 해양수산부 | 435 |
 | 보건복지부 | 358 |
-| 과학기술정보통신부 | 287 |
+| 과학기술정보통신부 | 286 |
+| 고용노동부 | 270 |
 | 식품의약품안전처 | 269 |
-| 고용노동부 | 269 |
-| 행정안전부 | 230 |
+| 행정안전부 | 231 |
 | 농림축산검역본부 | 206 |
 | 소방청 | 206 |
 | 국가기술표준원 | 198 |
-| 기타 (163개 부처) | 2,971 |
-| **합계** | **10,404** |
+| 기타 (163개 부처) | 2,974 |
+| **합계** | **10,425** |
 
 ## 개정 이력 (Git History)
 
